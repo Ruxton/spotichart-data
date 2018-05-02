@@ -1,6 +1,6 @@
 {
   "id": "tired_lion",
-  "state": "WA",
+  "state": ["WA"],
   "awards": ["WAM Best Rock Act"],
   "name": "Tired Lion",
   "spotify_url": "spotify:artist:5Vf0Z6jyMOGr07Gf8irDMt",

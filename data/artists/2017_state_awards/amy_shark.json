@@ -1,6 +1,6 @@
 {
   "id": "amy_shark",
-  "state": "QLD",
+  "state": ["QLD"],
   "awards": [
 		"Queensland Music Song of the Year (Adore)",
 		"Queensland Music Pop (Adore)",

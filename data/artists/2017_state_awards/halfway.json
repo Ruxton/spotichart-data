@@ -1,6 +1,6 @@
 {
   "id": "halfway",
-  "state": "QLD",
+  "state": ["QLD"],
   "awards": ["Queensland Music Country (THREE IN AND NOTHING BUT THE STARS)"],
   "name": "Halfway",
   "spotify_url": "spotify:artist:1vNgKXy3PgeCS8GC0xIcjG",

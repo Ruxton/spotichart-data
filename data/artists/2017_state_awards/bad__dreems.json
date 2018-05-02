@@ -1,6 +1,6 @@
 {
   "id": "bad__dreems",
-  "state": "SA",
+  "state": ["SA"],
   "awards": ["MusicSA Rock Award"],
   "name": "Bad//Dreems",
   "spotify_url": "spotify:artist:54f24706ua34STMhWSzPV7",

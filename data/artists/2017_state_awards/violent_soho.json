@@ -1,6 +1,6 @@
 {
   "id": "violent_soho",
-  "state": "QLD",
+  "state": ["QLD"],
   "awards": ["Queensland Music Album of the Year (WACO)"],
   "name": "Violent Soho",
   "spotify_url": "spotify:artist:2N2EFVDEbp2JB8ulEUVIxp",

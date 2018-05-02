@@ -1,6 +1,6 @@
 {
   "id": "marville",
-  "state": "QLD",
+  "state": ["QLD"],
   "awards": ["Queensland Music Billy Thorpe Scholarship (ASH KERLEY)"],
   "name": "Marville",
   "spotify_url": "spotify:artist:4kWOVuXJ5HI9pJyxlONh7L",

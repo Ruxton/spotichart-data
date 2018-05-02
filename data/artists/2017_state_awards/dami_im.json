@@ -1,6 +1,6 @@
 {
   "id": "dami_im",
-  "state": "QLD",
+  "state": ["QLD"],
   "awards": ["Queensland Music Most Popular Female"],
   "name": "Dami Im",
   "spotify_url": "spotify:artist:2wSrZOe6YVo6XoKma22sdY",

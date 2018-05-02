@@ -1,6 +1,6 @@
 {
   "id": "abbey_howlett",
-  "state": "SA",
+  "state": ["SA"],
   "awards": ["MusicSA Electronic Award"],
   "name": "Abbey Howlett",
   "spotify_url": "spotify:artist:50Wj0eOnIyKKGoE5N9fHuW",

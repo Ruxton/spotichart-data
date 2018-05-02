@@ -1,6 +1,6 @@
 {
   "id": "raised_by_eagles",
-  "state": "VIC",
+  "state": ["VIC"],
   "awards": ["Music Victoria Best Country Album (I Must Be Somewhere)"],
   "name": "Raised By Eagles",
   "spotify_url": "spotify:artist:1fsf2JQT6GZ2qKDf4lkoGx",

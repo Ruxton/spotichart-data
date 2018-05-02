@@ -1,6 +1,6 @@
 {
   "id": "methyl_ethel",
-  "state": "WA",
+  "state": ["WA"],
   "awards": [
 		"Best Pop Act",
 		"Best Album (Everything Is Forgotten)"

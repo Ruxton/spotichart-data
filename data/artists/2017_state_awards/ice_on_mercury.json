@@ -1,6 +1,6 @@
 {
   "id": "ice_on_mercury",
-  "state": "SA",
+  "state": ["SA"],
   "awards": ["MusicSA Heavy Award"],
   "name": "Ice On Mercury",
   "spotify_url": "spotify:artist:7IWPohbylAssNxfSzhq0Dv",

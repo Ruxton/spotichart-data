@@ -1,6 +1,6 @@
 {
   "id": "paul_kelly",
-  "state": "VIC",
+  "state": ["VIC"],
   "awards": ["Music Victoria Best Male Artist"],
   "name": "Paul Kelly",
   "spotify_url": "spotify:artist:0SNWoGaDlrCompmg9rXeNq",

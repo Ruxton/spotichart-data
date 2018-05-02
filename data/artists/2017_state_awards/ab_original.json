@@ -1,6 +1,6 @@
 {
   "id": "ab_original",
-  "state": "SA & VIC",
+  "state": ["SA","VIC"],
   "awards": [
 		"Music Victoria Best Music Video (January 26th)",
 		"Music Victoria Best Song (January 26th)",

@@ -1,6 +1,6 @@
 {
   "id": "king_gizzard_and_the_lizard_wizard",
-  "state": "VIC",
+  "state": ["VIC"],
   "awards": [
 		"Best Live Band",
 		"Best Song (Rattlesnake)",

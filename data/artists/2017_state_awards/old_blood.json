@@ -1,6 +1,6 @@
 {
   "id": "old_blood",
-  "state": "WA",
+  "state": ["WA"],
   "awards": ["WAM Best Blues/Roots Act"],
   "name": "Old Blood",
   "spotify_url": "spotify:artist:50SZpFP4e9DEF3TAUTU5H3",

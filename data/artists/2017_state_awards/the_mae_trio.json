@@ -1,6 +1,6 @@
 {
   "id": "the_mae_trio",
-  "state": "VIC",
+  "state": ["VIC"],
   "awards": ["Music Victoria Best Folk/Roots Album (Take Care, Take Cover)"],
   "name": "The Mae Trio",
   "spotify_url": "spotify:artist:1VMgrYBcXxCdUJuTbWJolz",

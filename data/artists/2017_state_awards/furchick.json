@@ -1,6 +1,6 @@
 {
   "id": "furchick",
-  "state": "WA",
+  "state": ["WA"],
   "awards": ["WAM Best Experimental Act"],
   "name": "Furchick",
   "spotify_url": "spotify:artist:1o2exj0dmuhCQ7BZJU6NRm",

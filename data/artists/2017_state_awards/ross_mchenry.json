@@ -1,6 +1,6 @@
 {
   "id": "ross_mchenry",
-  "state": "SA",
+  "state": ["SA"],
   "awards": ["MusicSA Jazz/Art Music Award"],
   "name": "Ross McHenry",
   "spotify_url": "spotify:artist:7g9yoxLQGRv7ob6yyVuIVF",

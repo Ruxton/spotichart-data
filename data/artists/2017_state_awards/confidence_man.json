@@ -1,6 +1,6 @@
 {
   "id": "confidence_man",
-  "state": "QLD",
+  "state": ["QLD"],
   "awards": ["Queensland Music Electronic (BOYFRIEND (REPEAT))"],
   "name": "Confidence Man",
   "spotify_url": "spotify:artist:0RwXnFrEoI8tltFvYpJgP6",

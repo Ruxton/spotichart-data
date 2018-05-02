@@ -1,6 +1,6 @@
 {
   "id": "jen_cloher",
-  "state": "VIC",
+  "state": ["VIC"],
   "awards": ["Music Victoria Best Female Artist"],
   "name": "Jen Cloher",
   "spotify_url": "spotify:artist:5L8TWHTc67vWhQhL15r4i5",

@@ -1,6 +1,6 @@
 {
   "id": "carla_geneve",
-  "state": "WA",
+  "state": ["WA"],
   "awards": "WAM Best Regional Act",
   "name": "Carla Geneve",
   "spotify_url": "spotify:artist:0UzJFZTzFyN6EYjenzezfT",

@@ -1,6 +1,6 @@
 {
   "id": "young_offenders",
-  "state": "SA",
+  "state": ["SA"],
   "awards": ["MusicSA Punk Award"],
   "name": "Young Offenders",
   "spotify_url": "spotify:artist:58Mtnm86JGfRXVX02w9fhy",

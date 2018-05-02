@@ -1,6 +1,6 @@
 {
   "id": "the_veronicas",
-  "state": "QLD",
+  "state": ["QLD"],
   "awards": ["Queensland Music Highest Selling Single (IN MY BLOOD)"],
   "name": "The Veronicas",
   "spotify_url": "spotify:artist:1dIdBZaaHRW2bDTkHNfWln",

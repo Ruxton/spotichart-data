@@ -1,6 +1,6 @@
 {
   "id": "cosmic_psychos",
-  "state": "VIC",
+  "state": ["VIC"],
   "awards": ["Music Victoria Best Regional Act"],
   "name": "Cosmic Psychos",
   "spotify_url": "spotify:artist:3orc30EUucavid98kNtMEf",

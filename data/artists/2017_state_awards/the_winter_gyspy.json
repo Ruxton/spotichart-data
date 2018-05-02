@@ -1,6 +1,6 @@
 {
   "id": "the_winter_gyspy",
-  "state": "SA",
+  "state": ["SA"],
   "awards": ["MusicSA Folk Award"],
   "name": "The Winter Gyspy",
   "spotify_url": "spotify:artist:1hluKRuEqifwrXwGlDWxjJ",

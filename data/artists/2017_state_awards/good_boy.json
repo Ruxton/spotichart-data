@@ -1,6 +1,6 @@
 {
   "id": "good_boy",
-  "state": "QLD",
+  "state": ["QLD"],
   "awards": "Queensland Music Rock (POVERTY LINE)",
   "name": "Good Boy",
   "spotify_url": "spotify:artist:7yjYuOlhk0VSwqqBHR3Xmc",

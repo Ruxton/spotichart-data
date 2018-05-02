@@ -1,6 +1,6 @@
 {
   "id": "dyspora",
-  "state": "SA",
+  "state": ["SA"],
   "awards": ["MusicSA Best Male Artist"],
   "name": "Dyspora",
   "spotify_url": "",

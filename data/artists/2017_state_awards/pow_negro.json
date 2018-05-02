@@ -1,6 +1,6 @@
 {
   "id": "pow_negro",
-  "state": "WA",
+  "state": ["WA"],
   "awards": ["WAM Most Popular Live Act", "WAM Best Urban Act"],
   "name": "POW! Negro",
   "spotify_url": "spotify:artist:2F2sxXCxJvgPqcPVGOZEUp",

@@ -1,6 +1,6 @@
 {
   "id": "adam_page",
-  "state": "SA",
+  "state": ["SA"],
   "awards": ["MusicSA World Music Award"],
   "name": "Adam Page",
   "spotify_url": "spotify:artist:2oih9wlLDVFXnGpbEbDcjZ",
